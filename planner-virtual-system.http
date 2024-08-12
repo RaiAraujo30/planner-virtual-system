@@ -1,0 +1,6 @@
+@planner_virtual_system_HostAddress = http://localhost:5129
+
+GET {{planner_virtual_system_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
